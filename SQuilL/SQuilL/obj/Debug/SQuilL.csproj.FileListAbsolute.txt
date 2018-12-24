@@ -1,0 +1,32 @@
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\bin\Debug\SQuilL.exe.config
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\bin\Debug\SQuilL.exe
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\bin\Debug\SQuilL.pdb
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.csprojResolveAssemblyReference.cache
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.Properties.Resources.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.SQuilL.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.Table.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.csproj.GenerateResource.Cache
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.exe
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\SQuilL\obj\Debug\SQuilL.pdb
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\bin\Debug\SQuilL.exe.config
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.exe
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.pdb
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\bin\Debug\SQuilL.exe
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\bin\Debug\SQuilL.pdb
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.csprojResolveAssemblyReference.cache
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.Properties.Resources.resources
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.SQuilL.resources
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.Table.resources
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.csproj.GenerateResource.Cache
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\bin\Debug\SQuilL.exe.config
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.exe
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.pdb
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\bin\Debug\SQuilL.exe
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\bin\Debug\SQuilL.pdb
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.csprojResolveAssemblyReference.cache
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.Properties.Resources.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.SQuilL.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.Table.resources
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.csproj.GenerateResource.Cache
+C:\Users\Bill Gates\Desktop\SquilL\SQuilL\obj\Debug\SQuilL.RenameForm.resources
+C:\Users\Wanderer-Admin\Desktop\SQuilL\SQuilL\SQuilL\obj\Debug\SQuilL.RenameForm.resources
